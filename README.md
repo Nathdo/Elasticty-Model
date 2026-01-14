@@ -1,4 +1,7 @@
 # Price Elasticity Modeling & Discount Optimization Strategy
+<p align="center">
+  <img src="src/visualization/Oprimization.png" alt="Mooving Average">
+</p>
 
 ## Executive Summary
 This project aims to optimize retail pricing strategies by modeling the Price Elasticity of Demand (PED). By analyzing historical sales data, the system quantifies customer sensitivity to price changes and determines the optimal discount depth required to maximize revenue and profit margins.
