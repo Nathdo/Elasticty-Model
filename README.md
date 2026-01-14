@@ -6,7 +6,7 @@ This project aims to optimize retail pricing strategies by modeling the Price El
 The core objective is to transition from rule-based pricing to data-driven dynamic pricing, leveraging statistical regression techniques and Machine Learning algorithms to predict sales volume at various price points.
   
 <p align="center">
-  <img src="/Users/nathandouieb/Desktop/FinalProjectV3/src/visualization/AllSmothingPrice.png" alt="Mooving Average">
+  <img src="src/visualization/AllSmothingPrice.png" alt="Mooving Average">
 </p>
 ## Project Scope & Objectives
 
@@ -15,7 +15,7 @@ The core objective is to transition from rule-based pricing to data-driven dynam
 * **Demand Curve Estimation:** Constructing mathematical functions ($Q = f(P)$) to simulate market behavior under different pricing scenarios.
 
 <p align="center">
-  <img src="/Users/nathandouieb/Desktop/FinalProjectV3/src/visualization/SalesMoovingAverage.png" alt="Mooving Average">
+  <img src="src/visualization/SalesMoovingAverage.png" alt="Mooving Average">
 </p>
 
 
